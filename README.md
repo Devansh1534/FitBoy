@@ -104,22 +104,6 @@ Here is the live view of this website. It is hosted on Vercel https://fit-body-d
     Happy coding :)
 
 
-### 🗒️NOTE
-
-- Make Sure you commit your changes in a new branch.
-- Make Sure you Give a proper name to your files describing the addition.
-- Also Make Sure you comment on your code wherever necessary.
-
-## 💫Features
-- Personalized Workout Plans: Provide the option for users to receive personalized workout plans tailored to their fitness goals. Users can input their preferences and goals, and the website generates a customized plan for them.
-
-- Progress Tracking: Enable users to track their fitness progress over time. They can input their measurements, record workout sessions, and monitor their improvements through charts or graphs.
-
-- Nutrition Guidance: Offer nutrition tips and guidance to help users maintain a healthy diet and complement their fitness routines. This can include articles, meal plans, and recipes.
-
-- Community and Social Interaction: Foster a sense of community among gym members through features like forums or social media integration. Users can connect, share their fitness journeys, and support one another.
-
-- Blog and Articles: Publish informative articles and blog posts related to fitness, health, and wellness. 
 
 ## 💻Technology Stack
 
@@ -128,32 +112,3 @@ Here is the live view of this website. It is hosted on Vercel https://fit-body-d
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-## License
-Licensed under the MIT License.
-## Repo Status
-
-![GitHub PR Open](https://img.shields.io/github/issues-pr/abhay-raj19/FitBody?style=for-the-badge&color=aqua)
-![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/abhay-raj19/FitBody?style=for-the-badge&color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/abhay-raj19/FitBody?style=for-the-badge&color=brightgreen)
-<br><br>
-
-## Join our Discord Community
-To get latest updates on the project and to interact with the community. We are happy to help you with your queries.
-
-  [![Join our Discord server!](https://invidget.switchblade.xyz/9jqmCs3KX3?theme=light)](https://discord.gg/Ra8vsr5bPK)
-
-
-
-## 🤝Our Contributors
-
-<a href="https://github.com/abhay-raj19/fitbody/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhay-raj19/fitbody" />
-</a>
-
-Thank you to all the amazing contributors who have made this project possible!
-
-Show some ❤️ by starring this repository !
-
-<p align="right">(<a href="#top">⇑</a>)</p>
-
